@@ -5,3 +5,5 @@ KolarOS is an operating system only for your needs.
 
 ## Discord
 KolarOS has its own discord server: https://discord.gg/zjZFsvmc9Q.
+
+# Head to the `Releases` tab to download KolarOS.
